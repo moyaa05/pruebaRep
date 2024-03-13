@@ -22,6 +22,10 @@ public class Date {
 
   private int fileAddedBySergioCollaborator;
 
+  public void methodAddedByAntonioAuthor(){
+    System.out.println("Method added by the owner Antonio");
+  }
+
   /**
    * Retrieves the day component of this date.
    *
