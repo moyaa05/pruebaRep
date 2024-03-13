@@ -20,6 +20,8 @@ public class Date {
   private final int month;
   private final int year;
 
+  private int fileAddedBySergioCollaborator;
+
   /**
    * Retrieves the day component of this date.
    *
